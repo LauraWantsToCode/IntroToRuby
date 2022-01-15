@@ -1,0 +1,6 @@
+Andy, sales
+Roy, sales
+Katherine, customer service
+Michael, manager
+Oscar, accountantOscar, accountantKelly, hair
+Dan, IT
